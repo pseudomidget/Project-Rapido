@@ -6,6 +6,8 @@ An interactive Tableau dashboard designed to analyse ride-hailing business perfo
 
 The dashboard transforms raw booking data into actionable business insights, helping identify demand trends, operational bottlenecks and opportunities to improve service reliability and customer experience.
 
+Link to Dashboard on Tableau Public: https://public.tableau.com/app/profile/sthita.pragyan2463/viz/RapidoPerformanceDashboard/RapidoPerfomanceDashboard
+
 ## 2. Short Description
 
 The Rapido Business Performance Dashboard provides a comprehensive overview of ride bookings, completed booking value, customer demand patterns, vehicle performance and cancellation behaviour. It enables stakeholders to monitor key operational KPIs, identify demand fluctuations across different time periods and locations, and investigate factors contributing to incomplete rides.
