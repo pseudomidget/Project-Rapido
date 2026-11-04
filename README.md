@@ -117,6 +117,6 @@ This is an independent business intelligence project based on ride-hailing opera
 
 **Note:** This is an independent analytical project and is not affiliated with or endorsed by Rapido. Any simulated or synthetic operational data should be identified as such.
 
-Link to dashboard: https://public.tableau.com/app/profile/sthita.pragyan2463/viz/Book1_17937823247860/RapidoPerfomanceDashboard
+Link to dashboard: https://public.tableau.com/app/profile/sthita.pragyan2463/viz/RapidoPerformanceDashboard/RapidoPerfomanceDashboard
 View in full screen for better view.
 
