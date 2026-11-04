@@ -89,27 +89,6 @@ The dashboard is designed to support:
 - Data-driven operational planning.
 - Performance monitoring across multiple cities.
 
-## Repository Structure
-
-```text
-Rapido-Business-Performance-Dashboard/
-│
-├── Dataset/
-│   ├── rides.csv
-│   ├── drivers.csv
-│   └── locations.csv
-│
-├── Dashboard/
-│   └── rapido_dashboard.pbix
-│
-├── Screenshots/
-│   └── dashboard_preview.png
-│
-├── Analysis/
-│   └── business_insights.md
-│
-└── README.md
-```
 
 ## Project Scope
 
