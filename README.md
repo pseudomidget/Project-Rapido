@@ -1,6 +1,6 @@
 # Project-Rapido
 
-**Power BI | DAX | Power Query | Excel | SQL**
+**Tableau | Excel | SQL**
 
 ## Overview
 
@@ -65,7 +65,7 @@ The dashboard simulates a business performance monitoring system that helps mana
 
 | Tool | Application |
 |---|---|
-| Power BI | Interactive dashboard development |
+| Tableau| Interactive dashboard development |
 | Power Query | Data cleaning and transformation |
 | DAX | KPI calculations and analytical measures |
 | Microsoft Excel | Dataset preparation and preprocessing |
@@ -116,3 +116,6 @@ Rapido-Business-Performance-Dashboard/
 This is an independent business intelligence project based on ride-hailing operations. It uses analytical modelling and dashboard visualisation to explore business performance and operational efficiency.
 
 **Note:** This is an independent analytical project and is not affiliated with or endorsed by Rapido. Any simulated or synthetic operational data should be identified as such.
+
+Link to dashboard: https://public.tableau.com/app/profile/sthita.pragyan2463/viz/Book1_17937823247860/RapidoPerfomanceDashboard
+View in full screen for better view.
