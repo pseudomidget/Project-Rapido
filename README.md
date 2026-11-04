@@ -66,19 +66,16 @@ The dashboard simulates a business performance monitoring system that helps mana
 | Tool | Application |
 |---|---|
 | Tableau| Interactive dashboard development |
-| Power Query | Data cleaning and transformation |
-| DAX | KPI calculations and analytical measures |
 | Microsoft Excel | Dataset preparation and preprocessing |
 | SQL | Data querying and business analysis |
 
 ## Project Workflow
 
 1. **Data Collection:** Source ride-booking data containing trip, revenue, driver and location attributes.
-2. **Data Cleaning:** Handle missing values, duplicates and inconsistent records using Power Query.
-3. **Data Modelling:** Establish relationships between relevant datasets.
-4. **KPI Development:** Create DAX measures to calculate business and operational metrics.
-5. **Dashboard Development:** Build interactive visualisations, filters and performance indicators.
-6. **Business Analysis:** Interpret trends, identify bottlenecks and derive actionable recommendations.
+2. **Data Modelling:** Establish relationships between relevant datasets.
+3. **KPI Development:** Calculate business and operational metrics.
+4. **Dashboard Development:** Build interactive visualisations, filters and performance indicators.
+5. **Business Analysis:** Interpret trends, identify bottlenecks and derive actionable recommendations.
 
 ## Expected Business Outcomes
 
